@@ -9,7 +9,10 @@ body {
 
 ul {
     list-style-type: none;
-    color:darkgrey;
+}
+
+li {
+    color: darkgray;
 }
 a {
     text-decoration: none;
@@ -18,4 +21,14 @@ a {
 .head {
     color: white;
     font-size: 24px;
+}
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
 }
