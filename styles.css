@@ -11,9 +11,6 @@ ul {
     list-style-type: none;
 }
 
-li {
-    color: darkgray;
-}
 a {
     text-decoration: none;
 }
@@ -21,17 +18,21 @@ a {
 .head {
     color: white;
     font-size: 24px;
+    margin-top: 0;
 }
 
 .top-header {
     display: flex;
-    justify-content: space-between;
-}
+    justify-content: space-around;
+} 
 
 .list {
     display: flex;
     flex-direction: row;
     gap: 16px;
-    color: white;
     margin-right: 10px;
+}
+
+.li {
+    color: darkgray;
 }
