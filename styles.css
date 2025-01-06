@@ -31,4 +31,7 @@ a {
 .list {
     display: flex;
     flex-direction: row;
+    gap: 16px;
+    color: white;
+    margin-right: 10px;
 }
