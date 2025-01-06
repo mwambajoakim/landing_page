@@ -45,3 +45,17 @@ button {
     border-radius: 5px;
     padding: 4px 12px 4px 12px;
 }
+
+.image {
+    width: 400px;
+    height: 200px;
+    background-color: darkgray;
+    align-content: center;
+}
+
+.placeholder {
+    display: flex;
+    justify-content: center;
+    color: #f9faf8;
+}
+
