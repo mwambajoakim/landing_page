@@ -1,3 +1,7 @@
+
+body {
+    font-family: Roboto;
+}
 .header,
 .footer {
     background-color: #1f2927;
@@ -5,4 +9,9 @@
 
 a {
     text-decoration: none;
+}
+
+.head {
+    color: white;
+    font-size: 24px;
 }
