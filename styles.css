@@ -9,6 +9,7 @@ body {
 
 ul {
     list-style-type: none;
+    color:#f9faf8;
 }
 
 a {
@@ -31,10 +32,11 @@ a {
     flex-direction: row;
     gap: 16px;
     margin-right: 10px;
+    color:#f9faf8;
 }
 
 .li {
-    color: darkgray;
+    color: #f9faf8;
 }
 
 button {
@@ -59,3 +61,14 @@ button {
     color: #f9faf8;
 }
 
+.awesome {
+    display: flex;
+    justify-content: space-around;
+}
+
+.awe-head {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #f9faf8;
+}
