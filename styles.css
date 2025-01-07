@@ -47,6 +47,7 @@ button {
     border-radius: 5px;
     padding: 4px 12px 4px 12px;
     display: flex;
+    border-color: #e5e7eb;
 }
 
 .image {
