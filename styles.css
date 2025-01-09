@@ -86,8 +86,11 @@ button {
     color: #3882f6;
     width: 100px;
     height: 100px;
+    margin: 20px;
+    border-radius: 5px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    background-color: #3882f6;
 }
 .card-text {
     display: flex;
@@ -116,6 +119,7 @@ button {
 
 .action {
     color:#e5e7eb;
+    font-size: 32px;
 }
 
 .end-button {
