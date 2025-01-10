@@ -14,6 +14,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: #f9faf8;
 }
 
 .head {
@@ -82,19 +83,38 @@ button {
     color: #f9faf8;
 }
 
+.title {
+    text-align: center;
+}
+
 .card {
     color: #3882f6;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin: 20px;
     border-radius: 5px;
-    display: flex;
-    flex-direction: column;
-    background-color: #3882f6;
+    outline: 2px solid #3882f6;
+    border-color: #1f2927;
 }
 .card-text {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+}
+
+.text {
+    display: flex;
+    margin-top: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+    align-items: flex-start;
+    margin-top: 0;
+}
+
+.subtext {
+    flex-wrap: wrap;
 }
 
 .quote {
@@ -126,4 +146,12 @@ button {
     align-self: flex-end;
     margin-bottom: 20px;
 }
+
+.footer {
+    color:#e5e7eb;
+    padding: 32px;
+    margin: 0;
+    text-align: center;
+}
+
 
