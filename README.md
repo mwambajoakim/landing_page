@@ -47,4 +47,10 @@ Those blue boxes taught me some new things on CSS and also centering things on a
     justify-content: center;
 }
 ``` 
-and _voila_. Some adrenaline rush on that one.
+and _voila_. Some adrenaline rush on that one. The mid section also had a container for taking action and a button to be clicked.
+
+## Footer
+
+The footer was not a had nut to crack. I just had to style the fonts, adding color and a logo for the copyright.
+
+That marks the end of that short project.
