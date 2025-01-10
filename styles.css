@@ -81,6 +81,7 @@ button {
     flex-direction: column;
     flex-wrap: wrap;
     color: #f9faf8;
+    margin-left: 55px;
 }
 
 .title {
@@ -93,7 +94,7 @@ button {
     height: 150px;
     margin: 20px;
     border-radius: 5px;
-    outline: 2px solid #3882f6;
+    outline: 4px solid #3882f6;
     border-color: #1f2927;
 }
 .card-text {
