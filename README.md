@@ -35,7 +35,7 @@ The mid section is what consumed a lot of time compared to the other parts of th
 
 I figured out a couple of things such as colouring the outline of a box using the `outline` property in CSS. This part was also where the centering of a div joke happened. I saw how Flex Box just makes life easier and I am ready to discover more of these magic tricks.
 
-![alt text](image.png)
+![creenshot of mid section](images/image.png)
 
 Those blue boxes taught me some new things on CSS and also centering things on a page using Flex Box. For centering, I used;
 
